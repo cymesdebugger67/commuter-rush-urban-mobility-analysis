@@ -1,0 +1,3 @@
+scenario,excluded_date,weekday_days,weekend_days,mean_weekday_entries,mean_weekend_entries,weekday_weekend_ratio,weekday_weekend_ratio_ci_low,weekday_weekend_ratio_ci_high,mean_evening_minus_morning_pp,mean_difference_ci_low,mean_difference_ci_high,evening_greater_weekdays
+all_october_days,,23,8,4128695.7391304346,2465016.875,1.674915811329054,1.5308934634644993,1.8363945263618002,3.079943813200393,2.4383501770139713,3.8183542790653653,23
+exclude_2024_10_14,2024-10-14,22,8,4175261.5,2465016.875,1.6938064572073164,1.5530409372615395,1.8505080674989767,2.858533395388366,2.327188939733446,3.4551335128348883,22

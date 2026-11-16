@@ -1,0 +1,16 @@
+station_complex_id,morning_entries,evening_entries,observed_morning_hours,observed_evening_hours,station_complex,borough,morning_coverage_pct,evening_coverage_pct,eligible_for_peak_ranking,larger_peak_window
+610,559569.00000000,928377.00000000,69,69,"Grand Central-42 St (S,4,5,6,7)",Manhattan,100.00000000,100.00000000,True,evening
+611,716308.00000000,828093.00000000,69,69,"Times Sq-42 St (N,Q,R,W,S,1,2,3,7)/42 St (A,C,E)",Manhattan,100.00000000,100.00000000,True,evening
+607,256772.00000000,614890.00000000,69,69,"34 St-Herald Sq (B,D,F,M,N,Q,R,W)",Manhattan,100.00000000,100.00000000,True,evening
+628,239432.00000000,581778.00000000,69,69,"Fulton St (A,C,J,Z,2,3,4,5)",Manhattan,100.00000000,100.00000000,True,evening
+602,177511.00000000,562738.00000000,69,69,"14 St-Union Sq (L,N,Q,R,W,4,5,6)",Manhattan,100.00000000,100.00000000,True,evening
+225,32407.00000000,498064.00000000,69,69,"47-50 Sts-Rockefeller Ctr (B,D,F,M)",Manhattan,100.00000000,100.00000000,True,evening
+624,135531.00000000,454199.00000000,69,69,"Chambers St (A,C)/WTC (E)/Park Pl (2,3)/Cortlandt (R,W)",Manhattan,100.00000000,100.00000000,True,evening
+614,141184.00000000,449704.00000000,69,69,"59 St-Columbus Circle (A,B,C,D,1)",Manhattan,100.00000000,100.00000000,True,evening
+612,104981.00000000,436229.00000000,69,69,"Lexington Av-53 St (E,M)/51 St (6)",Manhattan,100.00000000,100.00000000,True,evening
+609,44870.00000000,425687.00000000,69,69,"Bryant Pk (B,D,F,M)/5 Av (7)",Manhattan,100.00000000,100.00000000,True,evening
+613,89453.00000000,358422.00000000,69,69,"Lexington Av (N,R,W)/59 St (4,5,6)",Manhattan,100.00000000,100.00000000,True,evening
+164,345821.00000000,353414.00000000,69,69,"34 St-Penn Station (A,C,E)",Manhattan,100.00000000,100.00000000,True,evening
+618,77197.00000000,294626.00000000,69,69,"14 St (A,C,E)/8 Av (L)",Manhattan,100.00000000,100.00000000,True,evening
+623,52384.00000000,287208.00000000,69,69,"Canal St (J,N,Q,R,W,Z,6)",Manhattan,100.00000000,100.00000000,True,evening
+318,385129.00000000,273682.00000000,69,69,"34 St-Penn Station (1,2,3)",Manhattan,100.00000000,100.00000000,True,morning

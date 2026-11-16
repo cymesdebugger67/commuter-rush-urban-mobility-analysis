@@ -1,0 +1,2 @@
+weekday_days,weekend_days,mean_weekday_entries,mean_weekend_entries,weekday_minus_weekend_mean_entries,difference_ci_low,difference_ci_high,weekday_to_weekend_mean_ratio,ratio_ci_low,ratio_ci_high
+23,8,4128695.73913,2465016.875,1663678.86413,1415675.58736,1900657.85353,1.67491581133,1.53565598744,1.83296017856

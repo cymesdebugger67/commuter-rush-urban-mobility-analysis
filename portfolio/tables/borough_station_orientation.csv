@@ -1,0 +1,13 @@
+borough,orientation,station_complexes,borough_eligible_stations,share_of_eligible_borough_stations_pct
+Bronx,balanced,9,68,13.2352941176
+Bronx,evening-oriented,1,68,1.47058823529
+Bronx,morning-oriented,58,68,85.2941176471
+Brooklyn,balanced,31,156,19.8717948718
+Brooklyn,evening-oriented,10,156,6.41025641026
+Brooklyn,morning-oriented,115,156,73.7179487179
+Manhattan,balanced,23,121,19.0082644628
+Manhattan,evening-oriented,74,121,61.1570247934
+Manhattan,morning-oriented,24,121,19.8347107438
+Queens,balanced,9,79,11.3924050633
+Queens,evening-oriented,6,79,7.59493670886
+Queens,morning-oriented,64,79,81.0126582278

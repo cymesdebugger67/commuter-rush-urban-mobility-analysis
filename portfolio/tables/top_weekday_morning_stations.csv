@@ -1,0 +1,16 @@
+station_complex_id,morning_entries,evening_entries,observed_morning_hours,observed_evening_hours,station_complex,borough,morning_coverage_pct,evening_coverage_pct,eligible_for_peak_ranking,larger_peak_window
+611,716308.00000000,828093.00000000,69,69,"Times Sq-42 St (N,Q,R,W,S,1,2,3,7)/42 St (A,C,E)",Manhattan,100.00000000,100.00000000,True,evening
+610,559569.00000000,928377.00000000,69,69,"Grand Central-42 St (S,4,5,6,7)",Manhattan,100.00000000,100.00000000,True,evening
+318,385129.00000000,273682.00000000,69,69,"34 St-Penn Station (1,2,3)",Manhattan,100.00000000,100.00000000,True,morning
+164,345821.00000000,353414.00000000,69,69,"34 St-Penn Station (A,C,E)",Manhattan,100.00000000,100.00000000,True,evening
+447,321394.00000000,197629.00000000,69,69,Flushing-Main St (7),Queens,100.00000000,100.00000000,True,morning
+616,309166.00000000,180166.00000000,69,69,"74-Broadway (7)/Jackson Hts-Roosevelt Av (E,F,M,R)",Queens,100.00000000,100.00000000,True,morning
+607,256772.00000000,614890.00000000,69,69,"34 St-Herald Sq (B,D,F,M,N,Q,R,W)",Manhattan,100.00000000,100.00000000,True,evening
+628,239432.00000000,581778.00000000,69,69,"Fulton St (A,C,J,Z,2,3,4,5)",Manhattan,100.00000000,100.00000000,True,evening
+602,177511.00000000,562738.00000000,69,69,"14 St-Union Sq (L,N,Q,R,W,4,5,6)",Manhattan,100.00000000,100.00000000,True,evening
+120,168827.00000000,137782.00000000,69,69,Bedford Av (L),Brooklyn,100.00000000,100.00000000,True,morning
+617,167568.00000000,197901.00000000,69,69,"Atlantic Av-Barclays Ctr (B,D,N,Q,R,2,3,4,5)",Brooklyn,100.00000000,100.00000000,True,evening
+451,165732.00000000,61641.00000000,69,69,Junction Blvd (7),Queens,100.00000000,100.00000000,True,morning
+310,165326.00000000,149916.00000000,69,69,"96 St (1,2,3)",Manhattan,100.00000000,100.00000000,True,morning
+397,163747.00000000,256763.00000000,69,69,"86 St (4,5,6)",Manhattan,100.00000000,100.00000000,True,evening
+278,163439.00000000,88373.00000000,69,69,"Jamaica Center-Parsons/Archer (E,J,Z)",Queens,100.00000000,100.00000000,True,morning

@@ -1,0 +1,425 @@
+station_complex_id,morning_entries,morning_observed_hours,evening_entries,evening_observed_hours,morning_coverage_pct,evening_coverage_pct,eligible,balance_index,orientation,station_complex,borough,eligible_alternative,orientation_alternative,balance_index_alternative,orientation_stable
+1,103844,69,41796,69,100,100,True,-0.426036803076,morning-oriented,"Astoria-Ditmars Blvd (N,W)",Queens,True,morning-oriented,-0.362492180371,1
+10,46514,69,167110,69,100,100,True,0.564524585253,evening-oriented,"49 St (N,R,W)",Manhattan,True,evening-oriented,0.602497113919,1
+100,14212,69,9772,69,100,100,True,-0.18512341561,morning-oriented,"Hewes St (M,J)",Brooklyn,True,balanced,-0.0972415714684,0
+101,56873,69,51679,69,100,100,True,-0.0478480359643,balanced,"Marcy Av (M,J,Z)",Brooklyn,True,balanced,0.0554079520529,1
+103,5732,69,16125,69,100,100,True,0.475499839868,evening-oriented,"Bowery (J,Z)",Manhattan,True,evening-oriented,0.536533975468,1
+107,6547,69,48582,69,100,100,True,0.762484354877,evening-oriented,"Broad St (J,Z)",Manhattan,True,evening-oriented,0.775077166247,1
+108,24831,69,13761,69,100,100,True,-0.286847014925,morning-oriented,Middle Village-Metropolitan Av (M),Queens,True,morning-oriented,-0.253074931219,1
+109,42470,69,11786,69,100,100,True,-0.565541138307,morning-oriented,Fresh Pond Rd (M),Queens,True,morning-oriented,-0.516806964945,1
+110,33728,69,9208,69,100,100,True,-0.571082541457,morning-oriented,Forest Av (M),Queens,True,morning-oriented,-0.521859028569,1
+111,19801,69,6218,69,100,100,True,-0.522041584996,morning-oriented,Seneca Av (M),Queens,True,morning-oriented,-0.489682907966,1
+113,26495,69,12531,69,100,100,True,-0.357812740224,morning-oriented,Knickerbocker Av (M),Brooklyn,True,morning-oriented,-0.267916719456,1
+114,27890,69,11090,69,100,100,True,-0.430990251411,morning-oriented,Central Av (M),Brooklyn,True,morning-oriented,-0.357457043184,1
+118,9802,69,35288,69,100,100,True,0.565225105345,evening-oriented,3 Av (L),Manhattan,True,evening-oriented,0.62327086519,1
+119,100789,69,124211,69,100,100,True,0.104097777778,balanced,1 Av (L),Manhattan,True,evening-oriented,0.20469321788,0
+120,168827,69,137782,69,100,100,True,-0.101252735569,balanced,Bedford Av (L),Brooklyn,True,balanced,-0.020183632145,1
+122,59832,69,34525,69,100,100,True,-0.268204796676,morning-oriented,Graham Av (L),Brooklyn,True,morning-oriented,-0.196329321815,1
+123,30608,69,28272,69,100,100,True,-0.0396739130435,balanced,Grand St (L),Brooklyn,True,balanced,0.0319742666263,1
+124,35576,66,23889,69,95.652173913,100,True,-0.196535777348,morning-oriented,Montrose Av (L),Brooklyn,True,balanced,-0.117116079527,0
+125,31215,69,30344,69,100,100,True,-0.014149027762,balanced,Morgan Av (L),Brooklyn,True,balanced,0.0493506493506,1
+126,42673,69,32859,69,100,100,True,-0.129931684584,balanced,Jefferson St (L),Brooklyn,True,balanced,-0.0659181967231,1
+127,84374,69,35656,69,100,100,True,-0.405881862868,morning-oriented,DeKalb Av (L),Brooklyn,True,morning-oriented,-0.351994506354,1
+129,57795,69,20428,69,100,100,True,-0.477698375158,morning-oriented,Halsey St (L),Queens,True,morning-oriented,-0.430820766979,1
+13,23080,69,71794,69,100,100,True,0.513459957417,evening-oriented,"28 St (R,W)",Manhattan,True,evening-oriented,0.561088477348,1
+130,27158,69,12128,69,100,100,True,-0.382579035789,morning-oriented,Wilson Av (L),Brooklyn,True,morning-oriented,-0.312473052048,1
+131,15385,69,7460,69,100,100,True,-0.346903042241,morning-oriented,Bushwick Av-Aberdeen St (L),Brooklyn,True,morning-oriented,-0.263390944151,1
+133,13927,69,9333,69,100,100,True,-0.197506448839,morning-oriented,Atlantic Av (L),Brooklyn,True,balanced,-0.120132340778,0
+134,21232,69,11294,69,100,100,True,-0.305540183238,morning-oriented,Sutter Av (L),Brooklyn,True,morning-oriented,-0.247123287671,1
+135,14681,69,8634,69,100,100,True,-0.259360926442,morning-oriented,Livonia Av (L),Brooklyn,True,morning-oriented,-0.225761357963,1
+136,19977,69,9278,69,100,100,True,-0.365715262348,morning-oriented,New Lots Av (L),Brooklyn,True,morning-oriented,-0.354784745275,1
+137,16697,69,7001,69,100,100,True,-0.409148451346,morning-oriented,East 105 St (L),Brooklyn,True,morning-oriented,-0.370263358905,1
+138,15882,69,6792,69,100,100,True,-0.400899708918,morning-oriented,Canarsie-Rockaway Pkwy (L),Brooklyn,True,morning-oriented,-0.37702641719,1
+14,33173,69,125710,69,100,100,True,0.582422285581,evening-oriented,"23 St (R,W)",Manhattan,True,evening-oriented,0.634961195791,1
+141,9327,69,6356,69,100,100,True,-0.189440795766,morning-oriented,Park Pl (S),Brooklyn,True,balanced,-0.0858193277311,0
+143,53775,69,23185,69,100,100,True,-0.397479209979,morning-oriented,Inwood-207 St (A),Manhattan,True,morning-oriented,-0.319412171073,1
+144,38146,69,18842,69,100,100,True,-0.338737979926,morning-oriented,Dyckman St (A),Manhattan,True,morning-oriented,-0.270568157577,1
+145,29903,69,13974,69,100,100,True,-0.363037582332,morning-oriented,190 St (A),Manhattan,True,morning-oriented,-0.292775665399,1
+146,62347,69,26604,69,100,100,True,-0.401827972704,morning-oriented,181 St (A),Manhattan,True,morning-oriented,-0.332406145928,1
+147,58010,69,31384,69,100,100,True,-0.297849967559,morning-oriented,175 St (A),Manhattan,True,morning-oriented,-0.256210590977,1
+149,23380,69,10796,69,100,100,True,-0.368211610487,morning-oriented,163 St-Amsterdam Av (C),Manhattan,True,morning-oriented,-0.303036534375,1
+150,14202,69,6449,69,100,100,True,-0.375429761271,morning-oriented,155 St (C),Manhattan,True,morning-oriented,-0.27294379778,1
+151,111793,69,85942,69,100,100,True,-0.130735580449,balanced,"145 St (A,C,B,D)",Manhattan,True,balanced,-0.0564360559872,1
+152,25692,69,24858,69,100,100,True,-0.0164985163205,balanced,"135 St (C,B)",Manhattan,True,balanced,0.0885370812057,1
+153,107352,69,125713,69,100,100,True,0.0787805976873,balanced,"125 St (A,C,B,D)",Manhattan,True,balanced,0.142350617353,1
+154,35050,69,23704,69,100,100,True,-0.193110256323,morning-oriented,"116 St (C,B)",Manhattan,True,balanced,-0.105310634155,0
+155,41022,69,30758,69,100,100,True,-0.142992477013,balanced,"Cathedral Pkwy (110 St) (C,B)",Manhattan,True,balanced,-0.0407728337237,1
+156,24654,69,18346,69,100,100,True,-0.146697674419,balanced,"103 St (C,B)",Manhattan,True,balanced,-0.0541100171902,1
+157,38304,69,59837,69,100,100,True,0.219408809774,evening-oriented,"96 St (C,B)",Manhattan,True,evening-oriented,0.324596640329,1
+158,45472,69,67455,69,100,100,True,0.194665580419,evening-oriented,"86 St (C,B)",Manhattan,True,evening-oriented,0.303978297571,1
+159,29751,69,89618,69,100,100,True,0.501528872655,evening-oriented,"81 St-Museum of Natural History (C,B)",Manhattan,True,evening-oriented,0.576534088992,1
+16,42178,69,93655,69,100,100,True,0.378972709135,evening-oriented,"8 St-NYU (R,W)",Manhattan,True,evening-oriented,0.451283514684,1
+160,28583,69,65157,69,100,100,True,0.39016428419,evening-oriented,"72 St (C,B)",Manhattan,True,evening-oriented,0.471157622784,1
+162,58085,69,111537,69,100,100,True,0.315124217377,evening-oriented,"50 St (C,E)",Manhattan,True,evening-oriented,0.395609026052,1
+164,345821,69,353414,69,100,100,True,0.010859010204,balanced,"34 St-Penn Station (A,C,E)",Manhattan,True,balanced,0.0459382495833,1
+165,65200,69,122892,69,100,100,True,0.306722242307,evening-oriented,"23 St (C,E)",Manhattan,True,evening-oriented,0.396054219745,1
+167,90522,69,228596,69,100,100,True,0.432673807181,evening-oriented,"W 4 St-Wash Sq (A,C,E,B,D,F,M)",Manhattan,True,evening-oriented,0.49558750441,1
+168,23468,69,102590,69,100,100,True,0.627663456504,evening-oriented,"Spring St (C,E)",Manhattan,True,evening-oriented,0.671439316961,1
+169,24286,69,135997,69,100,100,True,0.696961000231,evening-oriented,"Canal St (A,C,E)",Manhattan,True,evening-oriented,0.716929637527,1
+17,11576,69,78044,69,100,100,True,0.741664806963,evening-oriented,"Prince St (R,W)",Manhattan,True,evening-oriented,0.776720425646,1
+173,32214,69,51539,69,100,100,True,0.230738003415,evening-oriented,"High St (A,C)",Brooklyn,True,evening-oriented,0.310068394455,1
+175,34993,69,63807,69,100,100,True,0.291639676113,evening-oriented,"Hoyt-Schermerhorn Sts (A,C,G)",Brooklyn,True,evening-oriented,0.369080130554,1
+176,19957,69,24437,69,100,100,True,0.100914538001,balanced,Lafayette Av (C),Brooklyn,True,evening-oriented,0.211160431198,0
+177,48117,69,30352,69,100,100,True,-0.226395136933,morning-oriented,Clinton-Washington Avs (C),Brooklyn,True,balanced,-0.146519860191,0
+179,102983,69,59432,69,100,100,True,-0.268146415048,morning-oriented,"Nostrand Av (A,C)",Brooklyn,True,morning-oriented,-0.1922140104,1
+180,40085,69,22170,69,100,100,True,-0.287768050759,morning-oriented,Kingston-Throop Avs (C),Brooklyn,True,morning-oriented,-0.194561061048,1
+181,80063,69,36400,69,100,100,True,-0.374908769309,morning-oriented,"Utica Av (A,C)",Brooklyn,True,morning-oriented,-0.30441786534,1
+182,30594,69,12520,69,100,100,True,-0.41921417637,morning-oriented,Ralph Av (C),Brooklyn,True,morning-oriented,-0.352859030006,1
+183,34805,69,15042,69,100,100,True,-0.396473208017,morning-oriented,Rockaway Av (C),Brooklyn,True,morning-oriented,-0.320404287508,1
+185,12299,69,7749,69,100,100,True,-0.226955307263,morning-oriented,Liberty Av (C),Brooklyn,True,morning-oriented,-0.174048084666,1
+186,19709,69,5117,69,100,100,True,-0.587770885362,morning-oriented,Van Siclen Av (C),Brooklyn,True,morning-oriented,-0.489411764706,1
+187,15839,69,5284,69,100,100,True,-0.499692278559,morning-oriented,Shepherd Av (C),Brooklyn,True,morning-oriented,-0.446340319613,1
+188,68754,69,20720,69,100,100,True,-0.536848693475,morning-oriented,"Euclid Av (A,C)",Brooklyn,True,morning-oriented,-0.478209912185,1
+189,36147,69,9375,69,100,100,True,-0.588111242916,morning-oriented,Grant Av (A),Brooklyn,True,morning-oriented,-0.533468279096,1
+190,30028,69,6484,69,100,100,True,-0.644829097283,morning-oriented,80 St (A),Queens,True,morning-oriented,-0.5935165307,1
+191,20979,69,3539,69,100,100,True,-0.711314136553,morning-oriented,88 St (A),Queens,True,morning-oriented,-0.678264122709,1
+192,42416,69,15299,69,100,100,True,-0.46984319501,morning-oriented,Rockaway Blvd (A),Queens,True,morning-oriented,-0.446302150004,1
+193,12164,69,2644,69,100,100,True,-0.642895732037,morning-oriented,104 St (A),Queens,True,morning-oriented,-0.609732594556,1
+194,16014,69,2906,69,100,100,True,-0.692811839323,morning-oriented,111 St (A),Queens,True,morning-oriented,-0.689129101503,1
+195,40161,69,10489,69,100,100,True,-0.585824284304,morning-oriented,Ozone Park-Lefferts Blvd (A),Queens,True,morning-oriented,-0.603952163851,1
+196,1743,69,2907,69,100,100,True,0.250322580645,evening-oriented,Aqueduct Racetrack (A),Queens,True,evening-oriented,0.27633851468,1
+197,5556,69,1678,69,100,100,True,-0.536079623998,morning-oriented,Aqueduct-N Conduit Av (A),Queens,True,morning-oriented,-0.497455729697,1
+198,12431,69,12746,69,100,100,True,0.0125114191524,balanced,Howard Beach-JFK Airport (A),Queens,True,balanced,0.0522848664688,1
+199,1693,69,574,69,100,100,True,-0.493603881782,morning-oriented,"Broad Channel (A,S)",Queens,True,morning-oriented,-0.445945945946,1
+2,78069,69,30374,69,100,100,True,-0.439816309029,morning-oriented,"Astoria Blvd (N,W)",Queens,True,morning-oriented,-0.368024659725,1
+20,9464,69,40072,69,100,100,True,0.617894056848,evening-oriented,"City Hall (R,W)",Manhattan,True,evening-oriented,0.666993991645,1
+200,3512,69,1260,69,100,100,True,-0.471919530595,morning-oriented,"Beach 90 St (A,S)",Queens,True,morning-oriented,-0.503532071207,1
+201,1840,69,895,69,100,100,True,-0.345521023766,morning-oriented,"Beach 98 St (A,S)",Queens,True,morning-oriented,-0.358753778191,1
+202,1041,69,737,69,100,100,True,-0.170978627672,morning-oriented,"Beach 105 St (A,S)",Queens,True,balanced,-0.140613847252,0
+203,2685,69,2101,69,100,100,True,-0.122022565817,balanced,"Rockaway Park-Beach 116 St (A,S)",Queens,True,balanced,-0.14320573433,1
+204,11183,69,4819,69,100,100,True,-0.397700287464,morning-oriented,Beach 67 St (A),Queens,True,morning-oriented,-0.383722524334,1
+205,8608,69,3137,69,100,100,True,-0.465815240528,morning-oriented,Beach 60 St (A),Queens,True,morning-oriented,-0.451342589761,1
+206,4285,69,1425,69,100,100,True,-0.500875656743,morning-oriented,Beach 44 St (A),Queens,True,morning-oriented,-0.464050632911,1
+207,4423,69,1496,69,100,100,True,-0.494509207636,morning-oriented,Beach 36 St (A),Queens,True,morning-oriented,-0.42285041225,1
+208,8221,69,2521,69,100,100,True,-0.530627443679,morning-oriented,Beach 25 St (A),Queens,True,morning-oriented,-0.490450069394,1
+209,18241,69,14644,69,100,100,True,-0.109381176828,balanced,Far Rockaway-Mott Av (A),Queens,True,balanced,-0.118209492775,1
+210,38069,69,14650,69,100,100,True,-0.444223145356,morning-oriented,Norwood-205 St (D),Bronx,True,morning-oriented,-0.387008709971,1
+211,34422,69,14323,69,100,100,True,-0.412329469689,morning-oriented,"Bedford Park Blvd (B,D)",Bronx,True,morning-oriented,-0.338713368217,1
+212,34533,69,11396,69,100,100,True,-0.503755796991,morning-oriented,"Kingsbridge Rd (B,D)",Bronx,True,morning-oriented,-0.424537520639,1
+213,43946,69,24973,69,100,100,True,-0.275294185928,morning-oriented,"Fordham Rd (B,D)",Bronx,True,morning-oriented,-0.241913002754,1
+214,23101,69,9292,69,100,100,True,-0.426295804649,morning-oriented,"182-183 Sts (B,D)",Bronx,True,morning-oriented,-0.335357309668,1
+215,50455,69,15996,69,100,100,True,-0.518562549849,morning-oriented,"Tremont Av (B,D)",Bronx,True,morning-oriented,-0.462351787882,1
+216,19171,69,13046,69,100,100,True,-0.190117018965,morning-oriented,"174-175 Sts (B,D)",Bronx,True,balanced,-0.138448788573,0
+217,30699,69,12856,69,100,100,True,-0.409665939617,morning-oriented,"170 St (B,D)",Bronx,True,morning-oriented,-0.280804107214,1
+218,37847,69,16965,69,100,100,True,-0.380974968985,morning-oriented,"167 St (B,D)",Bronx,True,morning-oriented,-0.319003858295,1
+22,16642,69,34919,69,100,100,True,0.354473342255,evening-oriented,"Rector St (R,W)",Manhattan,True,evening-oriented,0.419780003606,1
+220,15745,69,7063,69,100,100,True,-0.380655910207,morning-oriented,"155 St (B,D)",Manhattan,True,morning-oriented,-0.320221223643,1
+221,55216,69,43795,69,100,100,True,-0.115350819606,balanced,21 St-Queensbridge (F),Queens,True,balanced,-0.0495698620563,1
+222,51281,69,34890,69,100,100,True,-0.190214805445,morning-oriented,Roosevelt Island (F),Manhattan,True,balanced,-0.0876052592702,0
+223,46964,69,124786,69,100,100,True,0.453112081514,evening-oriented,"Lexington Av/63 St (F,Q)",Manhattan,True,evening-oriented,0.51581914404,1
+224,14556,69,106631,69,100,100,True,0.75977621362,evening-oriented,57 St (F),Manhattan,True,evening-oriented,0.783095848705,1
+225,32407,69,498064,69,100,100,True,0.877818014557,evening-oriented,"47-50 Sts-Rockefeller Ctr (B,D,F,M)",Manhattan,True,evening-oriented,0.883673748964,1
+228,83814,69,169868,69,100,100,True,0.339219968307,evening-oriented,"23 St (F,M)",Manhattan,True,evening-oriented,0.398863563032,1
+231,50175,69,126744,69,100,100,True,0.432791277364,evening-oriented,"Grand St (B,D)",Manhattan,True,evening-oriented,0.500514796392,1
+232,55336,69,69407,69,100,100,True,0.112799916629,balanced,2 Av (F),Manhattan,True,evening-oriented,0.211083163652,0
+234,52645,69,66613,69,100,100,True,0.117124218082,balanced,East Broadway (F),Manhattan,True,evening-oriented,0.188841231747,0
+235,38910,69,84630,69,100,100,True,0.370082564352,evening-oriented,York St (F),Brooklyn,True,evening-oriented,0.426668682648,1
+236,53369,69,54448,69,100,100,True,0.0100076982294,balanced,"Bergen St (F,G)",Brooklyn,True,balanced,0.118436170543,1
+237,72610,69,55947,69,100,100,True,-0.129615656868,balanced,"Carroll St (F,G)",Brooklyn,True,balanced,-0.0270947554047,1
+238,15583,69,23131,69,100,100,True,0.194968228548,evening-oriented,"Smith-9 Sts (F,G)",Brooklyn,True,evening-oriented,0.252823779193,1
+240,69109,69,53856,69,100,100,True,-0.124043426991,balanced,"7 Av (F,G)",Brooklyn,True,balanced,-0.0236907730673,1
+241,40424,69,22588,69,100,100,True,-0.283057195455,morning-oriented,"15 St-Prospect Park (F,G)",Brooklyn,True,morning-oriented,-0.207791135932,1
+242,46823,69,19045,69,100,100,True,-0.421722232343,morning-oriented,"Fort Hamilton Pkwy (F,G)",Brooklyn,True,morning-oriented,-0.368703529165,1
+243,60306,69,24171,69,100,100,True,-0.42774956497,morning-oriented,"Church Av (F,G)",Brooklyn,True,morning-oriented,-0.377419958072,1
+244,23786,69,11429,69,100,100,True,-0.35090160443,morning-oriented,Ditmas Av (F),Brooklyn,True,morning-oriented,-0.289951285828,1
+245,19644,69,11194,69,100,100,True,-0.274012581879,morning-oriented,18 Av (F),Brooklyn,True,morning-oriented,-0.238757803407,1
+246,6665,69,7419,69,100,100,True,0.0535359272934,balanced,Avenue I (F),Brooklyn,True,balanced,0.104510837727,1
+247,6759,69,3247,69,100,100,True,-0.350989406356,morning-oriented,Bay Pkwy (F),Brooklyn,True,morning-oriented,-0.26851779429,1
+248,17543,69,7649,69,100,100,True,-0.392743728168,morning-oriented,Avenue N (F),Brooklyn,True,morning-oriented,-0.357095248675,1
+249,17448,69,5411,69,100,100,True,-0.526575965703,morning-oriented,Avenue P (F),Brooklyn,True,morning-oriented,-0.492919332844,1
+250,22297,69,10118,69,100,100,True,-0.375721116767,morning-oriented,Kings Hwy (F),Brooklyn,True,morning-oriented,-0.338450310793,1
+251,12084,69,5744,69,100,100,True,-0.355620372448,morning-oriented,Avenue U (F),Brooklyn,True,morning-oriented,-0.312242706282,1
+252,15567,69,6119,69,100,100,True,-0.435672784285,morning-oriented,Avenue X (F),Brooklyn,True,morning-oriented,-0.363416714042,1
+253,7866,69,5137,69,100,100,True,-0.209874644313,morning-oriented,Neptune Av (F),Brooklyn,True,balanced,-0.0923006625543,0
+254,132629,69,35492,69,100,100,True,-0.577780289196,morning-oriented,Jamaica-179 St (F),Queens,True,morning-oriented,-0.561628355411,1
+255,42062,69,20138,69,100,100,True,-0.352475884244,morning-oriented,169 St (F),Queens,True,morning-oriented,-0.272973168788,1
+256,38844,69,17239,69,100,100,True,-0.38523260168,morning-oriented,Parsons Blvd (F),Queens,True,morning-oriented,-0.325885202624,1
+257,24284,69,11174,69,100,100,True,-0.369733205483,morning-oriented,Sutphin Blvd (F),Queens,True,morning-oriented,-0.326608635549,1
+258,33682,69,11523,69,100,100,True,-0.49018913837,morning-oriented,"Briarwood (E,F)",Queens,True,morning-oriented,-0.426487229931,1
+259,143455,69,67780,69,100,100,True,-0.358250289961,morning-oriented,"Kew Gardens-Union Tpke (E,F)",Queens,True,morning-oriented,-0.321973263751,1
+26,85796,69,110643,69,100,100,True,0.126487102867,balanced,"DeKalb Av (B,Q,R)",Brooklyn,True,evening-oriented,0.252483351611,0
+260,23374,69,10163,69,100,100,True,-0.393923129678,morning-oriented,"75 Av (E,F)",Queens,True,morning-oriented,-0.343543108402,1
+261,158146,69,81788,69,100,100,True,-0.318245850942,morning-oriented,"Forest Hills-71 Av (E,F,M,R)",Queens,True,morning-oriented,-0.264723627737,1
+262,56829,69,21300,69,100,100,True,-0.454747916907,morning-oriented,"67 Av (M,R)",Queens,True,morning-oriented,-0.398706398706,1
+263,89374,69,38063,69,100,100,True,-0.40263816631,morning-oriented,"63 Dr-Rego Park (M,R)",Queens,True,morning-oriented,-0.345192655773,1
+264,110339,69,54707,69,100,100,True,-0.337069665427,morning-oriented,"Woodhaven Blvd (M,R)",Queens,True,morning-oriented,-0.298558160526,1
+265,135223,69,40968,69,100,100,True,-0.534959220392,morning-oriented,"Grand Av-Newtown (M,R)",Queens,True,morning-oriented,-0.468264492429,1
+266,90686,69,26961,69,100,100,True,-0.541662770831,morning-oriented,"Elmhurst Av (M,R)",Queens,True,morning-oriented,-0.488087485075,1
+268,21762,69,9082,69,100,100,True,-0.41110102451,morning-oriented,"65 St (M,R)",Queens,True,morning-oriented,-0.366471685101,1
+269,41150,69,18986,69,100,100,True,-0.368564586936,morning-oriented,"Northern Blvd (M,R)",Queens,True,morning-oriented,-0.323227166215,1
+270,47209,69,20291,69,100,100,True,-0.398785185185,morning-oriented,"46 St (M,R)",Queens,True,morning-oriented,-0.311795132706,1
+271,64729,69,46410,69,100,100,True,-0.164829627763,morning-oriented,"Steinway St (M,R)",Queens,True,balanced,-0.0882857416282,0
+272,12370,69,20823,69,100,100,True,0.254662127557,evening-oriented,"36 St (M,R)",Queens,True,evening-oriented,0.307680722892,1
+273,73140,69,90264,69,100,100,True,0.104795476243,balanced,"Queens Plaza (E,M,R)",Queens,True,evening-oriented,0.236107320203,0
+276,7717,69,198253,69,100,100,True,0.925066757295,evening-oriented,"5 Av/53 St (E,M)",Manhattan,True,evening-oriented,0.929135471141,1
+277,28626,69,128010,69,100,100,True,0.63449015552,evening-oriented,"7 Av (E,B,D)",Manhattan,True,evening-oriented,0.668684792326,1
+278,163439,69,88373,69,100,100,True,-0.298103346941,morning-oriented,"Jamaica Center-Parsons/Archer (E,J,Z)",Queens,True,morning-oriented,-0.30112577481,1
+279,130723,69,101127,69,100,100,True,-0.127651498814,balanced,"Sutphin Blvd-Archer Av-JFK Airport (E,J,Z)",Queens,True,balanced,-0.10467103015,1
+28,39528,69,34230,69,100,100,True,-0.0718294964614,balanced,Union St (R),Brooklyn,True,balanced,0.0450213235211,1
+280,24888,69,17269,69,100,100,True,-0.180729179021,morning-oriented,Jamaica-Van Wyck (E),Queens,True,morning-oriented,-0.158711393527,1
+282,4582,69,12372,69,100,100,True,0.459478589124,evening-oriented,21 St (G),Queens,True,evening-oriented,0.477361057132,1
+283,50712,69,46948,69,100,100,True,-0.0385418799918,balanced,Greenpoint Av (G),Brooklyn,True,balanced,0.0447698853995,1
+284,45584,69,44246,69,100,100,True,-0.0148948012913,balanced,Nassau Av (G),Brooklyn,True,balanced,0.0509363799714,1
+286,20341,69,19700,69,100,100,True,-0.016008591194,balanced,Broadway (G),Brooklyn,True,balanced,0.0418953826284,1
+287,9892,69,14864,69,100,100,True,0.200840200355,evening-oriented,Flushing Av (G),Brooklyn,True,evening-oriented,0.242176560617,1
+288,31781,69,17582,69,100,100,True,-0.287644592103,morning-oriented,Myrtle-Willoughby Avs (G),Brooklyn,True,morning-oriented,-0.223892297205,1
+289,53362,69,27475,69,100,100,True,-0.320237020176,morning-oriented,Bedford-Nostrand Avs (G),Brooklyn,True,morning-oriented,-0.251292547464,1
+290,35074,69,20935,69,100,100,True,-0.25244157189,morning-oriented,Classon Av (G),Brooklyn,True,morning-oriented,-0.184669642021,1
+291,28628,69,26725,69,100,100,True,-0.0343793470995,balanced,Clinton-Washington Avs (G),Brooklyn,True,balanced,0.0391259366085,1
+292,17406,69,31781,69,100,100,True,0.29225201781,evening-oriented,Fulton St (G),Brooklyn,True,evening-oriented,0.406691820945,1
+293,39207,69,21227,69,100,100,True,-0.297514644075,morning-oriented,Van Cortlandt Park-242 St (1),Bronx,True,morning-oriented,-0.280242680704,1
+294,28712,69,11274,69,100,100,True,-0.436102635923,morning-oriented,238 St (1),Bronx,True,morning-oriented,-0.379474844658,1
+295,47010,69,25014,69,100,100,True,-0.3053982006,morning-oriented,231 St (1),Bronx,True,morning-oriented,-0.250757600621,1
+296,27101,69,14225,69,100,100,True,-0.31157140783,morning-oriented,Marble Hill-225 St (1),Manhattan,True,morning-oriented,-0.227697568389,1
+297,11306,69,8882,69,100,100,True,-0.120071329503,balanced,215 St (1),Manhattan,True,balanced,0.00641627543036,1
+298,28373,69,18433,69,100,100,True,-0.212365935991,morning-oriented,207 St (1),Manhattan,True,balanced,-0.103184423027,0
+299,38330,69,19452,69,100,100,True,-0.326710740369,morning-oriented,Dyckman St (1),Manhattan,True,morning-oriented,-0.247919857598,1
+3,96707,69,40148,69,100,100,True,-0.413276825838,morning-oriented,"30 Av (N,W)",Queens,True,morning-oriented,-0.335747396378,1
+30,37756,69,22945,69,100,100,True,-0.243999275136,morning-oriented,Prospect Av (R),Brooklyn,True,balanced,-0.147650356426,0
+300,41616,69,21082,69,100,100,True,-0.327506459536,morning-oriented,191 St (1),Manhattan,True,morning-oriented,-0.231596523106,1
+301,54651,69,32504,69,100,100,True,-0.2541104928,morning-oriented,181 St (1),Manhattan,True,morning-oriented,-0.177448626056,1
+303,53962,69,30714,69,100,100,True,-0.274552411545,morning-oriented,157 St (1),Manhattan,True,morning-oriented,-0.200707388809,1
+304,46948,69,27232,69,100,100,True,-0.265785926126,morning-oriented,145 St (1),Manhattan,True,morning-oriented,-0.202972890383,1
+305,60249,69,43924,69,100,100,True,-0.156710472003,morning-oriented,137 St-City College (1),Manhattan,True,balanced,-0.0589793557031,0
+306,28248,69,49365,69,100,100,True,0.272080708129,evening-oriented,125 St (1),Manhattan,True,evening-oriented,0.326159967485,1
+307,24646,69,116953,69,100,100,True,0.651890196965,evening-oriented,116 St-Columbia University (1),Manhattan,True,evening-oriented,0.689985009637,1
+308,46580,69,63766,69,100,100,True,0.155746470194,evening-oriented,Cathedral Pkwy (110 St) (1),Manhattan,True,evening-oriented,0.257523591395,1
+309,61489,69,47346,69,100,100,True,-0.129949005375,balanced,103 St (1),Manhattan,True,balanced,-0.0351608589633,1
+31,19301,69,15839,69,100,100,True,-0.0985202048947,balanced,25 St (R),Brooklyn,True,balanced,-0.016899821613,1
+310,165326,69,149916,69,100,100,True,-0.0488830803002,balanced,"96 St (1,2,3)",Manhattan,True,balanced,0.0555441852306,1
+311,72115,69,82280,69,100,100,True,0.0658376242754,balanced,86 St (1),Manhattan,True,evening-oriented,0.181582381295,0
+312,57462,69,77303,69,100,100,True,0.147226653805,balanced,79 St (1),Manhattan,True,evening-oriented,0.243602085339,0
+313,152548,69,189685,69,100,100,True,0.108513790312,balanced,"72 St (1,2,3)",Manhattan,True,evening-oriented,0.199021449046,0
+314,50561,69,106761,69,100,100,True,0.357229122437,evening-oriented,66 St-Lincoln Center (1),Manhattan,True,evening-oriented,0.479964207905,1
+316,42040,69,161705,69,100,100,True,0.587327296375,evening-oriented,50 St (1),Manhattan,True,evening-oriented,0.629228106086,1
+318,385129,69,273682,69,100,100,True,-0.169163842134,morning-oriented,"34 St-Penn Station (1,2,3)",Manhattan,True,balanced,-0.131734153964,0
+319,34513,69,79087,69,100,100,True,0.392376760563,evening-oriented,28 St (1),Manhattan,True,evening-oriented,0.45448780856,1
+32,61924,69,86381,69,100,100,True,0.164910151377,evening-oriented,"36 St (D,N,R)",Brooklyn,True,evening-oriented,0.223840847104,1
+320,35088,69,75608,69,100,100,True,0.36604755366,evening-oriented,23 St (1),Manhattan,True,evening-oriented,0.445631772193,1
+321,19874,69,44979,69,100,100,True,0.387106224847,evening-oriented,18 St (1),Manhattan,True,evening-oriented,0.467220235054,1
+323,32991,69,52883,69,100,100,True,0.231641707618,evening-oriented,Christopher St-Sheridan Sq (1),Manhattan,True,evening-oriented,0.32771903982,1
+324,22985,69,107934,69,100,100,True,0.648866856606,evening-oriented,Houston St (1),Manhattan,True,evening-oriented,0.694456269657,1
+325,8243,69,39802,69,100,100,True,0.656863357269,evening-oriented,Canal St (1),Manhattan,True,evening-oriented,0.683490285755,1
+326,14068,69,42004,69,100,100,True,0.498216578685,evening-oriented,Franklin St (1),Manhattan,True,evening-oriented,0.548676047814,1
+327,38105,69,139221,69,100,100,True,0.570226588318,evening-oriented,"Chambers St (1,2,3)",Manhattan,True,evening-oriented,0.630738205651,1
+328,55774,69,100064,69,100,100,True,0.28420539278,evening-oriented,WTC Cortlandt (1),Manhattan,True,evening-oriented,0.323356304815,1
+329,29806,69,42401,69,100,100,True,0.174429071974,evening-oriented,Rector St (1),Manhattan,True,evening-oriented,0.256841295914,1
+33,48304,69,23372,69,100,100,True,-0.3478430716,morning-oriented,45 St (R),Brooklyn,True,morning-oriented,-0.307467991069,1
+333,45748,69,151134,69,100,100,True,0.535274936256,evening-oriented,"Wall St (2,3)",Manhattan,True,evening-oriented,0.57250740847,1
+334,34049,69,32374,69,100,100,True,-0.0252171687518,balanced,"Clark St (2,3)",Brooklyn,True,balanced,0.0554987815423,1
+336,20293,69,47346,69,100,100,True,0.399961560638,evening-oriented,"Hoyt St (2,3)",Brooklyn,True,evening-oriented,0.475021290377,1
+337,37700,69,46795,69,100,100,True,0.107639505296,balanced,"Nevins St (2,3,4,5)",Brooklyn,True,evening-oriented,0.236336711555,0
+339,30491,69,16148,69,100,100,True,-0.307532322734,morning-oriented,"Bergen St (2,3)",Brooklyn,True,morning-oriented,-0.211075166508,1
+34,53012,69,27386,69,100,100,True,-0.318739272121,morning-oriented,53 St (R),Brooklyn,True,morning-oriented,-0.274109120193,1
+340,44556,69,31394,69,100,100,True,-0.173298222515,morning-oriented,"Grand Army Plaza (2,3)",Brooklyn,True,balanced,-0.0748116315388,0
+341,25486,69,19341,69,100,100,True,-0.137082561849,balanced,"Eastern Pkwy-Brooklyn Museum (2,3)",Brooklyn,True,balanced,-0.0486278102218,1
+343,19161,69,13513,69,100,100,True,-0.172859154067,morning-oriented,Nostrand Av (3),Brooklyn,True,balanced,-0.0797390908631,0
+344,21698,69,14540,69,100,100,True,-0.197527457365,morning-oriented,Kingston Av (3),Brooklyn,True,balanced,-0.113537604457,0
+345,155998,69,56257,69,100,100,True,-0.469911191727,morning-oriented,"Crown Hts-Utica Av (3,4)",Brooklyn,True,morning-oriented,-0.422158961512,1
+346,38467,69,14050,69,100,100,True,-0.464935163852,morning-oriented,Sutter Av-Rutland Rd (3),Brooklyn,True,morning-oriented,-0.426542856724,1
+347,28981,69,9706,69,100,100,True,-0.498229379378,morning-oriented,Saratoga Av (3),Brooklyn,True,morning-oriented,-0.476037456875,1
+348,29291,69,12752,69,100,100,True,-0.39338296506,morning-oriented,Rockaway Av (3),Brooklyn,True,morning-oriented,-0.304902395741,1
+349,12789,69,8588,69,100,100,True,-0.196519623895,morning-oriented,Junius St (3),Brooklyn,True,balanced,-0.135617814488,0
+35,81622,69,45110,69,100,100,True,-0.288104030553,morning-oriented,"59 St (N,R)",Brooklyn,True,morning-oriented,-0.258977817461,1
+350,20148,69,9632,69,100,100,True,-0.353122901276,morning-oriented,Pennsylvania Av (3),Brooklyn,True,morning-oriented,-0.276279400198,1
+351,14819,69,4404,69,100,100,True,-0.54179888675,morning-oriented,Van Siclen Av (3),Brooklyn,True,morning-oriented,-0.494357017962,1
+352,32173,69,10376,69,100,100,True,-0.512279959576,morning-oriented,New Lots Av (3),Brooklyn,True,morning-oriented,-0.481581022002,1
+353,22049,69,11394,69,100,100,True,-0.318601800078,morning-oriented,"President St-Medgar Evers College (2,5)",Brooklyn,True,morning-oriented,-0.209347472639,1
+354,37793,69,16169,69,100,100,True,-0.400726437122,morning-oriented,"Sterling St (2,5)",Brooklyn,True,morning-oriented,-0.31397246774,1
+355,41651,69,33579,69,100,100,True,-0.10729762063,balanced,"Winthrop St (2,5)",Brooklyn,True,balanced,-0.0469816187273,1
+356,53479,69,20685,69,100,100,True,-0.44218219082,morning-oriented,"Church Av (2,5)",Brooklyn,True,morning-oriented,-0.398420350364,1
+357,32181,69,10002,69,100,100,True,-0.525780527701,morning-oriented,"Beverly Rd (2,5)",Brooklyn,True,morning-oriented,-0.484877488515,1
+358,47744,69,14414,69,100,100,True,-0.536214163905,morning-oriented,"Newkirk Av-Little Haiti (2,5)",Brooklyn,True,morning-oriented,-0.490622940848,1
+359,118575,69,47857,69,100,100,True,-0.424906268025,morning-oriented,"Flatbush Av-Brooklyn College (2,5)",Brooklyn,True,morning-oriented,-0.359460364,1
+36,50827,69,20165,69,100,100,True,-0.4319078206,morning-oriented,Bay Ridge Av (R),Brooklyn,True,morning-oriented,-0.354770142234,1
+360,36872,69,13177,69,100,100,True,-0.473436032688,morning-oriented,Pelham Bay Park (6),Bronx,True,morning-oriented,-0.445560333163,1
+361,27862,69,5732,69,100,100,True,-0.658748586057,morning-oriented,Buhre Av (6),Bronx,True,morning-oriented,-0.614367155637,1
+362,14468,69,3821,69,100,100,True,-0.582153206846,morning-oriented,Middletown Rd (6),Bronx,True,morning-oriented,-0.519189167535,1
+363,17109,69,15640,69,100,100,True,-0.044856331491,balanced,Westchester Sq-E Tremont Av (6),Bronx,True,balanced,0.0308763162591,1
+364,14246,69,5629,69,100,100,True,-0.433559748428,morning-oriented,Zerega Av (6),Bronx,True,morning-oriented,-0.401084649847,1
+365,34493,69,11444,69,100,100,True,-0.501752400026,morning-oriented,Castle Hill Av (6),Bronx,True,morning-oriented,-0.454323220146,1
+366,83761,69,21588,69,100,100,True,-0.590162222707,morning-oriented,Parkchester (6),Bronx,True,morning-oriented,-0.541636610209,1
+367,21281,69,6124,69,100,100,True,-0.553074256523,morning-oriented,St Lawrence Av (6),Bronx,True,morning-oriented,-0.47545191415,1
+368,32372,69,8955,69,100,100,True,-0.566627144482,morning-oriented,Morrison Av-Soundview (6),Bronx,True,morning-oriented,-0.522600249607,1
+369,29202,69,9567,69,100,100,True,-0.506461347984,morning-oriented,Elder Av (6),Bronx,True,morning-oriented,-0.441495298814,1
+37,39013,69,13431,69,100,100,True,-0.48779650675,morning-oriented,77 St (R),Brooklyn,True,morning-oriented,-0.431107549583,1
+370,10322,69,3900,69,100,100,True,-0.45155393053,morning-oriented,Whitlock Av (6),Bronx,True,morning-oriented,-0.357038581856,1
+371,44442,69,27645,69,100,100,True,-0.23301011278,morning-oriented,Hunts Point Av (6),Bronx,True,morning-oriented,-0.184502312615,1
+372,14992,69,11734,69,100,100,True,-0.121903764125,balanced,Longwood Av (6),Bronx,True,balanced,-0.0722827456801,1
+373,24346,69,10731,69,100,100,True,-0.388146078627,morning-oriented,E 149 St (6),Bronx,True,morning-oriented,-0.312381985893,1
+374,4164,69,8650,69,100,100,True,0.350085843609,evening-oriented,E 143 St-St Mary's St (6),Bronx,True,evening-oriented,0.442460429223,1
+375,13860,69,12130,69,100,100,True,-0.0665640631012,balanced,Cypress Av (6),Bronx,True,balanced,-0.00207555002076,1
+376,24520,69,15651,69,100,100,True,-0.220781160539,morning-oriented,Brook Av (6),Bronx,True,balanced,-0.135750043828,0
+377,41589,69,26908,69,100,100,True,-0.214330554623,morning-oriented,3 Av-138 St (6),Bronx,True,morning-oriented,-0.156389485865,1
+378,34865,69,16741,69,100,100,True,-0.35119947293,morning-oriented,Woodlawn (4),Bronx,True,morning-oriented,-0.361385995788,1
+379,31231,69,24262,69,100,100,True,-0.125583406916,balanced,Mosholu Pkwy (4),Bronx,True,balanced,-0.104839264817,1
+38,69829,69,31557,69,100,100,True,-0.377488016097,morning-oriented,86 St (R),Brooklyn,True,morning-oriented,-0.329394501081,1
+380,21462,69,16428,69,100,100,True,-0.132858273951,balanced,Bedford Park Blvd-Lehman College (4),Bronx,True,balanced,-0.00761333696738,1
+381,41802,69,19012,69,100,100,True,-0.374749235373,morning-oriented,Kingsbridge Rd (4),Bronx,True,morning-oriented,-0.288519820584,1
+382,37768,69,21944,69,100,100,True,-0.265005359057,morning-oriented,Fordham Rd (4),Bronx,True,morning-oriented,-0.207051582427,1
+383,27601,69,10042,69,100,100,True,-0.466461227851,morning-oriented,183 St (4),Bronx,True,morning-oriented,-0.414951377634,1
+384,46325,69,26101,69,100,100,True,-0.279236738188,morning-oriented,Burnside Av (4),Bronx,True,morning-oriented,-0.218503957756,1
+385,28919,69,11788,69,100,100,True,-0.420836711131,morning-oriented,176 St (4),Bronx,True,morning-oriented,-0.342525265541,1
+386,24612,69,11627,69,100,100,True,-0.358315626811,morning-oriented,Mt Eden Av (4),Bronx,True,morning-oriented,-0.295112898878,1
+387,36472,69,18421,69,100,100,True,-0.328839742772,morning-oriented,170 St (4),Bronx,True,morning-oriented,-0.232407509057,1
+388,45083,69,18306,69,100,100,True,-0.422423448863,morning-oriented,167 St (4),Bronx,True,morning-oriented,-0.374755321375,1
+39,36667,69,14502,69,100,100,True,-0.433172428619,morning-oriented,Bay Ridge-95 St (R),Brooklyn,True,morning-oriented,-0.386793189019,1
+391,17497,69,15680,69,100,100,True,-0.0547668565573,balanced,"138 St-Grand Concourse (4,5)",Bronx,True,balanced,0.00688062585419,1
+392,110859,69,113067,69,100,100,True,0.00986040031082,balanced,"125 St (4,5,6)",Manhattan,True,balanced,0.0770062282582,1
+393,58372,69,50550,69,100,100,True,-0.0718128569068,balanced,116 St (6),Manhattan,True,balanced,0.0619608065167,1
+394,56438,69,38205,69,100,100,True,-0.192650275245,morning-oriented,110 St (6),Manhattan,True,balanced,-0.0873324465364,0
+395,51294,69,56562,69,100,100,True,0.0488429016466,balanced,103 St (6),Manhattan,True,evening-oriented,0.181368251365,0
+396,64698,69,100883,69,100,100,True,0.218533527397,evening-oriented,96 St (6),Manhattan,True,evening-oriented,0.328151810874,1
+397,163747,69,256763,69,100,100,True,0.221198069011,evening-oriented,"86 St (4,5,6)",Manhattan,True,evening-oriented,0.312242187363,1
+398,92341,69,167606,69,100,100,True,0.289539790804,evening-oriented,77 St (6),Manhattan,True,evening-oriented,0.400427104166,1
+399,45178,69,164008,69,100,100,True,0.568059047929,evening-oriented,68 St-Hunter College (6),Manhattan,True,evening-oriented,0.642356692666,1
+4,86715,69,35661,69,100,100,True,-0.417189645028,morning-oriented,"Broadway (N,W)",Queens,True,morning-oriented,-0.329715340336,1
+403,82329,69,159805,69,100,100,True,0.319971585981,evening-oriented,33 St (6),Manhattan,True,evening-oriented,0.388496370214,1
+404,59919,69,119993,69,100,100,True,0.333907688203,evening-oriented,28 St (6),Manhattan,True,evening-oriented,0.405085703874,1
+405,74544,69,157324,69,100,100,True,0.357013473183,evening-oriented,23 St (6),Manhattan,True,evening-oriented,0.43939575675,1
+407,52966,69,76799,69,100,100,True,0.183662775016,evening-oriented,Astor Pl (6),Manhattan,True,evening-oriented,0.276140659796,1
+409,24704,69,70353,69,100,100,True,0.480227652882,evening-oriented,Spring St (6),Manhattan,True,evening-oriented,0.541268052316,1
+41,61537,69,38402,69,100,100,True,-0.231491209638,morning-oriented,"7 Av (B,Q)",Brooklyn,True,morning-oriented,-0.150726281352,1
+413,48918,69,110713,69,100,100,True,0.387111525957,evening-oriented,"Wall St (4,5)",Manhattan,True,evening-oriented,0.436605136908,1
+414,65745,69,159172,69,100,100,True,0.415384341779,evening-oriented,"Bowling Green (4,5)",Manhattan,True,evening-oriented,0.455099888854,1
+416,18845,69,10750,69,100,100,True,-0.273525933435,morning-oriented,Wakefield-241 St (2),Bronx,True,morning-oriented,-0.30616489709,1
+417,15490,69,7229,69,100,100,True,-0.363616356354,morning-oriented,"Nereid Av (2,5)",Bronx,True,morning-oriented,-0.409016208552,1
+418,18571,69,9130,69,100,100,True,-0.34081802101,morning-oriented,"233 St (2,5)",Bronx,True,morning-oriented,-0.357372293027,1
+419,18134,69,5872,69,100,100,True,-0.510788969424,morning-oriented,"225 St (2,5)",Bronx,True,morning-oriented,-0.45844718018,1
+42,56795,69,30988,69,100,100,True,-0.293986307144,morning-oriented,"Prospect Park (B,Q,S)",Brooklyn,True,morning-oriented,-0.235633456927,1
+420,13947,69,4507,69,100,100,True,-0.51154221307,morning-oriented,"219 St (2,5)",Bronx,True,morning-oriented,-0.486480038174,1
+421,29847,69,18094,69,100,100,True,-0.24515550364,morning-oriented,"Gun Hill Rd (2,5)",Bronx,True,morning-oriented,-0.210334078529,1
+422,15103,69,4705,69,100,100,True,-0.524939418417,morning-oriented,"Burke Av (2,5)",Bronx,True,morning-oriented,-0.501240321732,1
+423,24195,69,9157,69,100,100,True,-0.450887502998,morning-oriented,"Allerton Av (2,5)",Bronx,True,morning-oriented,-0.416818430158,1
+424,34431,69,19857,69,100,100,True,-0.268457117595,morning-oriented,"Pelham Pkwy (2,5)",Bronx,True,morning-oriented,-0.237908769006,1
+425,14254,69,4384,69,100,100,True,-0.52956325786,morning-oriented,"Bronx Park East (2,5)",Bronx,True,morning-oriented,-0.466051417271,1
+426,45898,69,17763,69,100,100,True,-0.441950330658,morning-oriented,"E 180 St (2,5)",Bronx,True,morning-oriented,-0.416340605371,1
+427,23563,69,17165,69,100,100,True,-0.157090944805,morning-oriented,"West Farms Sq-E Tremont Av (2,5)",Bronx,True,balanced,-0.0974974605227,0
+428,29035,69,15350,69,100,100,True,-0.308324884533,morning-oriented,"174 St (2,5)",Bronx,True,morning-oriented,-0.250072186837,1
+429,22587,69,9886,69,100,100,True,-0.391124934561,morning-oriented,"Freeman St (2,5)",Bronx,True,morning-oriented,-0.339613906764,1
+43,45174,69,20962,69,100,100,True,-0.366094109109,morning-oriented,Parkside Av (Q),Brooklyn,True,morning-oriented,-0.324055766793,1
+430,33190,69,24121,69,100,100,True,-0.158241873288,morning-oriented,"Simpson St (2,5)",Bronx,True,balanced,-0.108921381649,0
+431,13204,69,8468,69,100,100,True,-0.218530823182,morning-oriented,"Intervale Av (2,5)",Bronx,True,balanced,-0.132035280413,0
+432,29166,69,18263,69,100,100,True,-0.229880452887,morning-oriented,"Prospect Av (2,5)",Bronx,True,morning-oriented,-0.154046087039,1
+433,26661,69,15627,69,100,100,True,-0.260925085131,morning-oriented,"Jackson Av (2,5)",Bronx,True,morning-oriented,-0.150817643419,1
+434,81478,69,63780,69,100,100,True,-0.121838384117,balanced,"3 Av-149 St (2,5)",Bronx,True,balanced,-0.0462823887893,1
+436,20065,69,8588,69,100,100,True,-0.40055142568,morning-oriented,Harlem-148 St (3),Manhattan,True,morning-oriented,-0.340493666223,1
+437,19159,69,8352,69,100,100,True,-0.392824688306,morning-oriented,145 St (3),Manhattan,True,morning-oriented,-0.328887970967,1
+438,52031,69,40939,69,100,100,True,-0.119307303431,balanced,"135 St (2,3)",Manhattan,True,balanced,-0.0329766172148,1
+439,47662,69,67364,69,100,100,True,0.171283014275,evening-oriented,"125 St (2,3)",Manhattan,True,evening-oriented,0.254744833404,1
+44,83083,69,29496,69,100,100,True,-0.475994634879,morning-oriented,"Church Av (B,Q)",Brooklyn,True,morning-oriented,-0.435255680989,1
+440,50123,69,30054,69,100,100,True,-0.250308692019,morning-oriented,"116 St (2,3)",Manhattan,True,morning-oriented,-0.164264948205,1
+441,40125,69,29040,69,100,100,True,-0.160268922143,morning-oriented,"Central Park North (110 St) (2,3)",Manhattan,True,balanced,-0.0405593755807,0
+442,22813,69,8902,69,100,100,True,-0.438625256188,morning-oriented,Eastchester-Dyre Av (5),Bronx,True,morning-oriented,-0.469484522116,1
+443,16613,69,6134,69,100,100,True,-0.460676133116,morning-oriented,Baychester Av (5),Bronx,True,morning-oriented,-0.39174998428,1
+444,28344,69,7549,69,100,100,True,-0.579360878166,morning-oriented,Gun Hill Rd (5),Bronx,True,morning-oriented,-0.568878756136,1
+445,19630,69,7918,69,100,100,True,-0.425148831131,morning-oriented,Pelham Pkwy (5),Bronx,True,morning-oriented,-0.358803896562,1
+446,20333,69,4398,69,100,100,True,-0.644333023331,morning-oriented,Morris Park (5),Bronx,True,morning-oriented,-0.576731842723,1
+447,321394,69,197629,69,100,100,True,-0.238457640606,morning-oriented,Flushing-Main St (7),Queens,True,morning-oriented,-0.200700377358,1
+448,8306,69,15031,69,100,100,True,0.288169002014,evening-oriented,Mets-Willets Point (7),Queens,True,evening-oriented,0.327616346186,1
+449,71136,69,18020,69,100,100,True,-0.595764726995,morning-oriented,111 St (7),Queens,True,morning-oriented,-0.574504680316,1
+45,30679,69,11352,69,100,100,True,-0.459827270348,morning-oriented,Beverley Rd (Q),Brooklyn,True,morning-oriented,-0.415752702084,1
+450,158009,69,54820,69,100,100,True,-0.484844640533,morning-oriented,103 St-Corona Plaza (7),Queens,True,morning-oriented,-0.44454848839,1
+451,165732,69,61641,69,100,100,True,-0.457798419337,morning-oriented,Junction Blvd (7),Queens,True,morning-oriented,-0.420603368793,1
+452,119520,69,51131,69,100,100,True,-0.400753584802,morning-oriented,90 St-Elmhurst Av (7),Queens,True,morning-oriented,-0.370149200361,1
+453,54366,69,37470,69,100,100,True,-0.183980138508,morning-oriented,82 St-Jackson Hts (7),Queens,True,balanced,-0.125242208424,0
+455,41470,69,16512,69,100,100,True,-0.430443930875,morning-oriented,69 St (7),Queens,True,morning-oriented,-0.379834254144,1
+456,111233,69,45457,69,100,100,True,-0.419784287447,morning-oriented,61 St-Woodside (7),Queens,True,morning-oriented,-0.37229191001,1
+457,48411,69,19168,69,100,100,True,-0.432723183237,morning-oriented,52 St (7),Queens,True,morning-oriented,-0.377181308225,1
+458,78440,69,39683,69,100,100,True,-0.328107142555,morning-oriented,46 St-Bliss St (7),Queens,True,morning-oriented,-0.255292532052,1
+459,60939,69,34455,69,100,100,True,-0.277627523744,morning-oriented,40 St-Lowery St (7),Queens,True,morning-oriented,-0.183294983497,1
+46,46906,69,15392,69,100,100,True,-0.505858936081,morning-oriented,Cortelyou Rd (Q),Brooklyn,True,morning-oriented,-0.457087493608,1
+460,9953,69,52621,69,100,100,True,0.681880653306,evening-oriented,33 St-Rawson St (7),Queens,True,evening-oriented,0.744647900155,1
+461,56508,69,59745,69,100,100,True,0.0278444427241,balanced,"Queensboro Plaza (7,N,W)",Queens,True,evening-oriented,0.156159839913,0
+463,18905,69,31691,69,100,100,True,0.252707723931,evening-oriented,Hunters Point Av (7),Queens,True,evening-oriented,0.319757352377,1
+464,115237,69,60029,69,100,100,True,-0.314995492566,morning-oriented,Vernon Blvd-Jackson Av (7),Queens,True,morning-oriented,-0.221619167917,1
+47,67182,69,23466,69,100,100,True,-0.482261053746,morning-oriented,"Newkirk Plaza (B,Q)",Brooklyn,True,morning-oriented,-0.42655439004,1
+471,38677,69,214654,69,100,100,True,0.694652450746,evening-oriented,34 St-Hudson Yards (7),Manhattan,True,evening-oriented,0.718172649262,1
+475,99134,69,74669,69,100,100,True,-0.140762817673,balanced,96 St (Q),Manhattan,True,balanced,-0.0443867749655,1
+476,144907,69,108025,69,100,100,True,-0.145817848275,balanced,86 St (Q),Manhattan,True,balanced,-0.0643325463697,1
+477,115037,69,203918,69,100,100,True,0.278663134298,evening-oriented,72 St (Q),Manhattan,True,evening-oriented,0.355619101177,1
+48,20617,69,10825,69,100,100,True,-0.311430570574,morning-oriented,Avenue H (Q),Brooklyn,True,morning-oriented,-0.177143139972,1
+49,30232,69,17201,69,100,100,True,-0.274724348028,morning-oriented,Avenue J (Q),Brooklyn,True,morning-oriented,-0.211929522991,1
+5,38382,69,22988,69,100,100,True,-0.250839172234,morning-oriented,"36 Av (N,W)",Queens,True,balanced,-0.1388196617,0
+50,30980,69,18401,69,100,100,True,-0.254733601993,morning-oriented,Avenue M (Q),Brooklyn,True,morning-oriented,-0.162521558324,1
+51,117337,69,54938,69,100,100,True,-0.362205775649,morning-oriented,"Kings Hwy (B,Q)",Brooklyn,True,morning-oriented,-0.306635741621,1
+52,44628,69,17759,69,100,100,True,-0.430682674275,morning-oriented,Avenue U (Q),Brooklyn,True,morning-oriented,-0.386836208244,1
+53,34613,69,9680,69,100,100,True,-0.562910617931,morning-oriented,Neck Rd (Q),Brooklyn,True,morning-oriented,-0.536013276784,1
+54,81234,69,38270,69,100,100,True,-0.359519346633,morning-oriented,"Sheepshead Bay (B,Q)",Brooklyn,True,morning-oriented,-0.326584331503,1
+55,54899,69,33323,69,100,100,True,-0.24456484777,morning-oriented,"Brighton Beach (B,Q)",Brooklyn,True,morning-oriented,-0.180454335383,1
+56,15187,69,10479,69,100,100,True,-0.183433335931,morning-oriented,Ocean Pkwy (Q),Brooklyn,True,balanced,-0.127604875541,0
+57,9846,69,9328,69,100,100,True,-0.0270157504955,balanced,"W 8 St-NY Aquarium (F,Q)",Brooklyn,True,balanced,0.0304464941637,1
+58,66848,69,42876,69,100,100,True,-0.218475447486,morning-oriented,"Coney Island-Stillwell Av (D,F,N,Q)",Brooklyn,True,morning-oriented,-0.169605147538,1
+59,40229,69,13793,69,100,100,True,-0.48935618822,morning-oriented,9 Av (D),Brooklyn,True,morning-oriented,-0.445718240356,1
+6,20411,69,16877,69,100,100,True,-0.0947757991847,balanced,"39 Av-Dutch Kills (N,W)",Queens,True,balanced,-0.00598502605648,1
+60,22744,69,14828,69,100,100,True,-0.210688810817,morning-oriented,Fort Hamilton Pkwy (D),Brooklyn,True,balanced,-0.140973718225,0
+601,106297,69,240871,69,100,100,True,0.387633652871,evening-oriented,"14 St (F,M,1,2,3)/6 Av (L)",Manhattan,True,evening-oriented,0.452530621733,1
+602,177511,69,562738,69,100,100,True,0.520401918814,evening-oriented,"14 St-Union Sq (L,N,Q,R,W,4,5,6)",Manhattan,True,evening-oriented,0.582439466835,1
+603,36169,69,44754,69,100,100,True,0.106088503886,balanced,"149 St-Grand Concourse (2,4,5)",Bronx,True,evening-oriented,0.176212198006,0
+604,104866,69,89502,69,100,100,True,-0.079045933487,balanced,"161 St-Yankee Stadium (B,D,4)",Bronx,True,balanced,-0.0384975544669,1
+605,79704,69,140968,69,100,100,True,0.277624709977,evening-oriented,"168 St (A,C,1)",Manhattan,True,evening-oriented,0.33249213664,1
+606,108457,69,145172,69,100,100,True,0.144758682958,balanced,"Court Sq (E,G,M,7)",Queens,True,evening-oriented,0.230195242002,0
+607,256772,69,614890,69,100,100,True,0.410845029381,evening-oriented,"34 St-Herald Sq (B,D,F,M,N,Q,R,W)",Manhattan,True,evening-oriented,0.436005614865,1
+608,62895,69,57106,69,100,100,True,-0.0482412646561,balanced,"4 Av (F,G)/9 St (R)",Brooklyn,True,balanced,0.0455492166984,1
+609,44870,69,425687,69,100,100,True,0.809289841613,evening-oriented,"Bryant Pk (B,D,F,M)/5 Av (7)",Manhattan,True,evening-oriented,0.816641643101,1
+61,13220,69,14606,69,100,100,True,0.0498095306548,balanced,50 St (D),Brooklyn,True,balanced,0.102573058563,1
+610,559569,69,928377,69,100,100,True,0.247863833768,evening-oriented,"Grand Central-42 St (S,4,5,6,7)",Manhattan,True,evening-oriented,0.278457945065,1
+611,716308,69,828093,69,100,100,True,0.0723808130142,balanced,"Times Sq-42 St (N,Q,R,W,S,1,2,3,7)/42 St (A,C,E)",Manhattan,True,balanced,0.0786250447185,1
+612,104981,69,436229,69,100,100,True,0.612050775115,evening-oriented,"Lexington Av-53 St (E,M)/51 St (6)",Manhattan,True,evening-oriented,0.649278323857,1
+613,89453,69,358422,69,100,100,True,0.600544794865,evening-oriented,"Lexington Av (N,R,W)/59 St (4,5,6)",Manhattan,True,evening-oriented,0.637584988872,1
+614,141184,69,449704,69,100,100,True,0.522129405234,evening-oriented,"59 St-Columbus Circle (A,B,C,D,1)",Manhattan,True,evening-oriented,0.577912161919,1
+615,27187,69,14662,69,100,100,True,-0.299290305623,morning-oriented,New Utrecht Av (N)/62 St (D),Brooklyn,True,morning-oriented,-0.252584877994,1
+616,309166,69,180166,69,100,100,True,-0.263624696525,morning-oriented,"74-Broadway (7)/Jackson Hts-Roosevelt Av (E,F,M,R)",Queens,True,morning-oriented,-0.204497201,1
+617,167568,69,197901,69,100,100,True,0.0829974635332,balanced,"Atlantic Av-Barclays Ctr (B,D,N,Q,R,2,3,4,5)",Brooklyn,True,evening-oriented,0.172562339846,0
+618,77197,69,294626,69,100,100,True,0.584764794001,evening-oriented,"14 St (A,C,E)/8 Av (L)",Manhattan,True,evening-oriented,0.640118901189,1
+619,72081,69,251246,69,100,100,True,0.554129410782,evening-oriented,"Broadway-Lafayette St (B,D,F,M)/Bleecker St (6)",Manhattan,True,evening-oriented,0.601421609709,1
+62,6992,69,8271,69,100,100,True,0.083797418594,balanced,55 St (D),Brooklyn,True,balanced,0.128337458529,1
+620,104913,69,170219,69,100,100,True,0.23736242967,evening-oriented,"Court St (R)/Borough Hall (2,3,4,5)",Brooklyn,True,evening-oriented,0.337852856856,1
+621,40903,69,23650,69,100,100,True,-0.267268755906,morning-oriented,"Broadway Junction (A,C,J,L,Z)",Brooklyn,True,morning-oriented,-0.217771883289,1
+622,56453,69,187821,69,100,100,True,0.537789531428,evening-oriented,"Brooklyn Bridge-City Hall (4,5,6)/Chambers St (J,Z)",Manhattan,True,evening-oriented,0.598920138877,1
+623,52384,69,287208,69,100,100,True,0.691488609861,evening-oriented,"Canal St (J,N,Q,R,W,Z,6)",Manhattan,True,evening-oriented,0.727549448699,1
+624,135531,69,454199,69,100,100,True,0.540362538789,evening-oriented,"Chambers St (A,C)/WTC (E)/Park Pl (2,3)/Cortlandt (R,W)",Manhattan,True,evening-oriented,0.569734647199,1
+625,96374,69,126344,69,100,100,True,0.134564785963,balanced,"Delancey St (F)/Essex St (J,M,Z)",Manhattan,True,evening-oriented,0.245202543195,0
+626,89155,69,49323,69,100,100,True,-0.287641358194,morning-oriented,"Franklin Av (2,3,4,5)/Botanic Garden (S)",Brooklyn,True,morning-oriented,-0.164350103832,1
+627,27181,69,21386,69,100,100,True,-0.119319702679,balanced,"Franklin Av (C,S)",Brooklyn,True,balanced,-0.0265911523984,1
+628,239432,69,581778,69,100,100,True,0.416879969801,evening-oriented,"Fulton St (A,C,J,Z,2,3,4,5)",Manhattan,True,evening-oriented,0.44335009627,1
+629,81287,69,59405,69,100,100,True,-0.155531231342,morning-oriented,Lorimer St (L)/Metropolitan Av (G),Brooklyn,True,balanced,-0.0790991334042,0
+630,131522,69,64034,69,100,100,True,-0.345108306572,morning-oriented,"Myrtle-Wyckoff Avs (L,M)",Brooklyn,True,morning-oriented,-0.299762144729,1
+635,91648,69,174787,69,100,100,True,0.31204233678,evening-oriented,"South Ferry (1)/Whitehall St (R,W)",Manhattan,True,evening-oriented,0.36275346787,1
+636,87029,69,242318,69,100,100,True,0.47150573711,evening-oriented,"Jay St-MetroTech (A,C,F,R)",Brooklyn,True,evening-oriented,0.538376662673,1
+64,37532,69,8933,69,100,100,True,-0.615495534273,morning-oriented,71 St (D),Brooklyn,True,morning-oriented,-0.577718223583,1
+65,44871,69,13335,69,100,100,True,-0.541799814452,morning-oriented,79 St (D),Brooklyn,True,morning-oriented,-0.498986513878,1
+66,43190,69,13335,69,100,100,True,-0.528173374613,morning-oriented,18 Av (D),Brooklyn,True,morning-oriented,-0.484991393666,1
+67,33996,69,9910,69,100,100,True,-0.548581059536,morning-oriented,20 Av (D),Brooklyn,True,morning-oriented,-0.498724148391,1
+68,47182,69,17194,69,100,100,True,-0.46582577358,morning-oriented,Bay Pkwy (D),Brooklyn,True,morning-oriented,-0.415955045151,1
+69,30644,69,8711,69,100,100,True,-0.557311650362,morning-oriented,25 Av (D),Brooklyn,True,morning-oriented,-0.471041019451,1
+70,16717,69,6659,69,100,100,True,-0.430270362765,morning-oriented,Bay 50 St (D),Brooklyn,True,morning-oriented,-0.273883745828,1
+71,53797,69,46988,69,100,100,True,-0.0675596566949,balanced,8 Av (N),Brooklyn,True,balanced,-0.0101436126301,1
+72,52132,69,15927,69,100,100,True,-0.531964912796,morning-oriented,Fort Hamilton Pkwy (N),Brooklyn,True,morning-oriented,-0.469862649963,1
+74,30702,69,13447,69,100,100,True,-0.390835579515,morning-oriented,18 Av (N),Brooklyn,True,morning-oriented,-0.338050400044,1
+75,29685,69,13049,69,100,100,True,-0.389291898722,morning-oriented,20 Av (N),Brooklyn,True,morning-oriented,-0.334787309399,1
+76,48219,69,14610,69,100,100,True,-0.53492813828,morning-oriented,Bay Pkwy (N),Brooklyn,True,morning-oriented,-0.484238832727,1
+77,43534,69,12146,69,100,100,True,-0.563721264368,morning-oriented,Kings Hwy (N),Brooklyn,True,morning-oriented,-0.530266064185,1
+78,26154,69,9221,69,100,100,True,-0.478671378092,morning-oriented,Avenue U (N),Brooklyn,True,morning-oriented,-0.431026622903,1
+79,15095,69,6138,69,100,100,True,-0.421843357039,morning-oriented,86 St (N),Brooklyn,True,morning-oriented,-0.325726064711,1
+8,11489,69,123582,69,100,100,True,0.829882062027,evening-oriented,"5 Av/59 St (N,R,W)",Manhattan,True,evening-oriented,0.848282535075,1
+80,12676,69,7435,69,100,100,True,-0.260603649744,morning-oriented,"121 St (J,Z)",Queens,True,morning-oriented,-0.227155877541,1
+81,13724,69,5635,69,100,100,True,-0.417841830673,morning-oriented,111 St (J),Queens,True,morning-oriented,-0.380365690968,1
+82,18800,69,5691,69,100,100,True,-0.535257849822,morning-oriented,"104 St (J,Z)",Queens,True,morning-oriented,-0.500402352213,1
+83,26375,69,11391,69,100,100,True,-0.396758989567,morning-oriented,"Woodhaven Blvd (J,Z)",Queens,True,morning-oriented,-0.347819882993,1
+84,11628,69,3160,69,100,100,True,-0.572626453882,morning-oriented,85 St-Forest Pkwy (J),Queens,True,morning-oriented,-0.536852948751,1
+85,20275,69,8094,69,100,100,True,-0.429377137016,morning-oriented,"75 St-Elderts Ln (J,Z)",Queens,True,morning-oriented,-0.287175730632,1
+86,5529,69,1582,69,100,100,True,-0.555055547743,morning-oriented,Cypress Hills (J),Brooklyn,True,morning-oriented,-0.446192573946,1
+87,19958,69,7610,69,100,100,True,-0.44791062101,morning-oriented,"Crescent St (J,Z)",Brooklyn,True,morning-oriented,-0.391671118859,1
+88,14219,69,5434,69,100,100,True,-0.447005546227,morning-oriented,"Norwood Av (J,Z)",Brooklyn,True,morning-oriented,-0.371919312962,1
+89,14138,69,4605,69,100,100,True,-0.508616550179,morning-oriented,Cleveland St (J),Brooklyn,True,morning-oriented,-0.441466975865,1
+9,61167,69,216998,69,100,100,True,0.560210666331,evening-oriented,"57 St-7 Av (N,Q,R,W)",Manhattan,True,evening-oriented,0.605512422128,1
+90,16325,69,6070,69,100,100,True,-0.457914713106,morning-oriented,"Van Siclen Av (J,Z)",Brooklyn,True,morning-oriented,-0.410116246886,1
+91,7980,69,7365,69,100,100,True,-0.0400782013685,balanced,Alabama Av (J),Brooklyn,True,balanced,0.015295197308,1
+93,15618,69,7603,69,100,100,True,-0.345161707075,morning-oriented,"Chauncey St (J,Z)",Brooklyn,True,morning-oriented,-0.271432620094,1
+94,37600,69,13703,69,100,100,True,-0.465801220202,morning-oriented,Halsey St (J),Brooklyn,True,morning-oriented,-0.40409742991,1
+95,42046,69,18959,69,100,100,True,-0.378444389804,morning-oriented,"Gates Av (J,Z)",Brooklyn,True,morning-oriented,-0.290073252181,1
+96,35796,69,15261,69,100,100,True,-0.402197543921,morning-oriented,Kosciuszko St (J),Brooklyn,True,morning-oriented,-0.335865965322,1
+97,71586,69,39491,69,100,100,True,-0.288943705718,morning-oriented,"Myrtle Av (M,J,Z)",Brooklyn,True,morning-oriented,-0.218882309512,1
+98,25837,69,34873,69,100,100,True,0.148838741558,balanced,"Flushing Av (M,J)",Brooklyn,True,evening-oriented,0.212395283069,0
+99,19657,69,16100,69,100,100,True,-0.0994770254775,balanced,"Lorimer St (M,J)",Brooklyn,True,balanced,-0.0331206605367,1

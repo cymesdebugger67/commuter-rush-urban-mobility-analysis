@@ -1,0 +1,3 @@
+day_type,days,mean_daily_entries,median_daily_entries,total_entries,minimum_reporting_stations,maximum_reporting_stations
+Weekday,23,4128695.73913043,4302496.00000000,94960002.00000000,424,424
+Weekend,8,2465016.87500000,2417254.50000000,19720135.00000000,420,424
